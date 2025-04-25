@@ -1,4 +1,4 @@
-<img width="600" src="https://github.com/abdullaah019/Ethernet-LAN-Switching-Lab-Cisco-Packet-Tracer-/blob/main/Scenario%202_%20PowerShell%20Suspicious%20Web%20Request.png" alt="Ethernet-LAN-Switching-Lab-Cisco-Packet-Tracer-"/>
+<img width="800" src="https://github.com/abdullaah019/Ethernet-LAN-Switching-Lab-Cisco-Packet-Tracer-/blob/main/Scenario%202_%20PowerShell%20Suspicious%20Web%20Request.png" alt="Ethernet-LAN-Switching-Lab-Cisco-Packet-Tracer-"/>
 # 🔄 Ethernet LAN Switching Lab (Cisco Packet Tracer)
 
 ## 🎯 Objective
